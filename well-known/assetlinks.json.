@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.shirokhorshidd.ahura",
-    "sha256_cert_fingerprints": ["F2:91:11:7C:40:FE:34:BA:EF:44:F0:37:96:D1:46:71:56:31:5B:97:E8:90:ED:D1:F3:E6:C1:C0:32:CA:E6:E7"]
-  }
-}]
