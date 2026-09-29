@@ -1,8 +1,0 @@
-[{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-        "namespace": "android_app",
-        "package_name": "ir.parsa.ahura",
-        "sha256_cert_fingerprints": ["9C:4C:92:9F:8D:A7:72:86:47:A6:54:93:DF:43:2E:0E:D9:7E:A1:F2:05:FA:C6:E0:9C:A4:0C:C2:6F:F9:14:F0"]
-    }
-}]
